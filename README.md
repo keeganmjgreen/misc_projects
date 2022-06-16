@@ -20,7 +20,7 @@ Some of my miscellaneous projects and scripts that are too short to warrant a de
 
 ## `photo_folders.py`
 
-`photo_folders.py` walks through aa specified directory, listing the path of all folders therein containing at least 50% image files. I did this for the exercise "Identifying Photo Folders on the Hard Drive" in *Automate the Boring Stuff with Python*.
+`photo_folders.py` walks through a specified directory, listing the path of all folders therein containing at least 50% image files. I did this for the exercise "Identifying Photo Folders on the Hard Drive" in *Automate the Boring Stuff with Python*.
 
 ## `eating_persistence.py`
 
